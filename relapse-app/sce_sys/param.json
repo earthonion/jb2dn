@@ -1,0 +1,11 @@
+{
+    "titleId": "RLPS10002",
+    "applicationCategoryType": 65536,
+    "deeplinkUri": "http://45.56.67.85/relapse/",
+    "localizedParameters": {
+        "defaultLanguage": "en-US",
+        "en-US": {
+            "titleName": "Relapse (Direct)"
+        }
+    }
+}

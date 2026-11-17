@@ -1,0 +1,4 @@
+build/
+/relapse-app/*.elf
+*.swp
+*.swo
