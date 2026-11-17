@@ -27,8 +27,6 @@ make -f Makefile.direct
 
 Open `jb_deeznutz.ino` and replace `YOUR_WIFI_SSID` and `YOUR_WIFI_PASSWORD` with your Wi-Fi credentials. Check that `PS5_IP` matches the PS5 and that the address passed to `WiFi.config()` is appropriate for your network.
 
-Do not commit your real credentials.
-
 ## Build and flash
 
 Install `arduino-cli` and the ESP32 board package, then run:
