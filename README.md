@@ -1,4 +1,4 @@
-# jb_deeznutz
+# jb2dn
 
 A Waveshare ESP32-S3-Zero USB HID auto-navigator for the PS5, with the Relapse direct-installer payload included.
 
@@ -25,7 +25,7 @@ make -f Makefile.direct
 
 ## Configure the ESP32 firmware
 
-Open `jb_deeznutz.ino` and replace `YOUR_WIFI_SSID` and `YOUR_WIFI_PASSWORD` with your Wi-Fi credentials. Check that `PS5_IP` matches the PS5 and that the address passed to `WiFi.config()` is appropriate for your network.
+Open `jb2dn.ino` and replace `YOUR_WIFI_SSID` and `YOUR_WIFI_PASSWORD` with your Wi-Fi credentials. Check that `PS5_IP` matches the PS5 and that the address passed to `WiFi.config()` is appropriate for your network.
 
 Do not commit your real credentials.
 

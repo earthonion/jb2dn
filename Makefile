@@ -1,4 +1,4 @@
-# jb_deeznutz — ESP32-S3-Zero HID Auto-Navigator
+# jb2dn — ESP32-S3-Zero HID Auto-Navigator
 # Waveshare ESP32-S3-Zero — USB HID keyboard for PS5 exploit navigation
 #
 # Usage:
@@ -12,7 +12,7 @@
 # First time: plug in ESP32-S3-Zero holding BOOT button, then 'make flash'
 # After first flash: auto-resets into bootloader, no button needed
 
-SKETCH    := jb_deeznutz.ino
+SKETCH    := jb2dn.ino
 FQBN      := esp32:esp32:waveshare_esp32_s3_zero
 BAUD      := 921600
 MON_BAUD  := 115200
